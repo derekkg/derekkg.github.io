@@ -1,7 +1,7 @@
 ---
 title: Adruino Android bluetooth RGB LED Controller
 author: Derek Gutheil
-layout: post
+layout: article
 permalink: /adruino-android-bluetooth-rgb-led-controller/
 categories:
   - Android
