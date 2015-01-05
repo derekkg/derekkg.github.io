@@ -1,7 +1,7 @@
 ---
 title: Android car infotainment system
 author: Derek Gutheil
-layout: post
+layout: article
 permalink: /android-car-infotainment-system/
 categories:
   - Android

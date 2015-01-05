@@ -1,8 +1,8 @@
 ---
 title: Arduino based battery and motor controller monitor
 author: Derek Gutheil
-layout: post
-permalink: /arduino-based-battery-and-motor-controller-monitor/
+layout: article
+permalink: arduino-based-battery-and-motor-controller-monitor/
 categories:
   - Alltrax
   - Arduino

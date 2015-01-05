@@ -1,8 +1,8 @@
 ---
 title: Playing sounds using external interrupts on a Raspberry Pi
 author: Derek Gutheil
-layout: post
-permalink: /playing-sounds-using-external-interrupts-on-a-raspberry-pi/
+layout: article
+permalink: playing-sounds-using-external-interrupts-on-a-raspberry-pi/
 categories:
   - Hardware
   - Raspberry Pi
