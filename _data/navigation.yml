@@ -1,6 +1,13 @@
 # Site navigation links
 
-- title:
+- title: About Me
+  url: /about/
+
+- title: Projects
   url:
-  excerpt:
-  image:
+
+- title: Contact Me
+  url: /contact/
+
+- title: Hire Me!
+  url: /hire/
