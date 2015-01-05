@@ -1,13 +1,13 @@
 # Site navigation links
 
 - title: About Me
-  url: /about/
+  url: about/
 
 - title: Projects
   url:
 
 - title: Contact Me
-  url: /contact/
+  url: contact/
 
 - title: Hire Me!
-  url: /hire/
+  url: hire/
