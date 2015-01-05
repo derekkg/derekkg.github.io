@@ -1,7 +1,7 @@
 ---
 title: Who am I?
 author: Derek Gutheil
-layout: page
+layout: default
 permalink: /about/
 ---
 <img class="wp-image-19 alignright" style="margin-left: 10px; margin-right: 10px;" alt="Me and an Aston Martin Vantage S" src="http://derekgutheil.com/wp-content/uploads/2013/03/458906_2205496113588_2014859688_o-266x300.jpg" width="213" height="240" />Hi!

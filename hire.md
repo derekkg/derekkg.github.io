@@ -1,7 +1,7 @@
 ---
 title: Hire Me!
 author: Derek Gutheil
-layout: page
+layout: default
 permalink: /hire/
 ---
 <h2 style="text-align: center;">

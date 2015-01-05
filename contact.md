@@ -1,7 +1,7 @@
 ---
 title: Contact Me
 author: Derek Gutheil
-layout: page
+layout: default
 permalink: /contact/
 ---
 <p style="text-align: left;">
