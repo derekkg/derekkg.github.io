@@ -1,5 +1,5 @@
 ---
-title: "Latest Posts"
+title: "Projects"
 author: Derek Gutheil
 layout: archive
 permalink: /projects/
