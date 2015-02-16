@@ -1,8 +1,4 @@
 # Footer navigation links
 
-- title: Subscribe
-  url: /subscribe/
-
-- title: Linked In
+- title: LinkedIn
   url: https://www.linkedin.com/in/derekgutheil
-  image: bio-photo.jpg

@@ -8,6 +8,11 @@ categories:
   - Android
   - EV Team
   - Software
+image:
+  teaser: bio-photo.jpg
+  feature: skinny-bones-demo.gif
+  credit: Michael Rose #name of the person or site you want to credit
+  creditlink: http://mademistakes.com #url to their site or licensing
 ---
 An Arduino Library for interfacing an Arduino with an Alltrax AXE/DCX motor controller. Any information that the motor controller is monitoring can be viewed on the Arduino, and writeable parameters on the Alltrax can be written by the Arduino as well. It may work for other Alltrax series motor controllers, however only the AXE series has been tested. 
 
