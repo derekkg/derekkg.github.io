@@ -21,9 +21,7 @@ and Alltrax (<a href="http://www.mail-archive.com/listserv@electricmotorcycles.n
 
 &nbsp;
 
-<p style="text-align: center;">
-  <strong>Please NOTE: an RS232 Adapter is necessary!</strong>
-</p>
+-> **Please NOTE: an RS232 Adapter is necessary!** <-
 
 &nbsp;
 
