@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /
+permalink: /projects/
 title: "Latest Posts"
 ---
 
