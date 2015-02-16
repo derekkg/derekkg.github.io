@@ -10,7 +10,7 @@ categories:
   - Software
 image:
   teaser: bio-photo.jpg
-  feature: skinny-bones-demo.gif
+  feature: 400x250.gif
   credit: Michael Rose #name of the person or site you want to credit
   creditlink: http://mademistakes.com #url to their site or licensing
 ---
