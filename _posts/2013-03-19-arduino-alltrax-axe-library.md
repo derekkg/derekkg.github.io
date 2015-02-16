@@ -72,10 +72,7 @@ The only tricky part about this is that you need to pass a serial object to the 
     …
     …
 
-
-        <p>
-          Here is a table showing which hardware serial should be used:<br /> &nbsp;
-        </p>
+Here is a table showing which hardware serial should be used:
         
 | Board                                                                              | Hardware Serial                   |
 |------------------------------------------------------------------------------------|-----------------------------------|
