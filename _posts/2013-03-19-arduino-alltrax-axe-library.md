@@ -26,7 +26,7 @@ and Alltrax (<a href="http://www.mail-archive.com/listserv@electricmotorcycles.n
 
 &nbsp;
 
-### Installation and Examples
+## Installation and Examples
 
 Unzip the Alltrax.zip folder into the arduino/libraries/ folder.
 
@@ -34,7 +34,7 @@ Then look at the ReadUse example (File -> Examples -> Alltrax -> ReadUse).
 
 &nbsp;
 
-### The Circuit
+## The Circuit
 
 <p style="text-align: center;">
   <strong>an RS232 Adapter is necessary</strong><br /> * Power and ground &#8211;> RS232 shield/adapter<br /> * Arduino Rx &#8211;> adapter Rx<br /> * Arduino Tx &#8211;> adapter Tx
