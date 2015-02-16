@@ -46,13 +46,13 @@ Then look at the ReadUse example (File -> Examples -> Alltrax -> ReadUse).
 
 &nbsp;
 
-### Versions:
+## Versions:
 
 There are 2 versions of this Library: One for Hardware Serial and one for Software Serial.  
 For more information on Software Serial see here: <http://arduino.cc/en/Reference/SoftwareSerial>  
 &nbsp;
 
-### How to use:
+## How to use:
 
 Using each Library is a little different:
 
@@ -62,14 +62,17 @@ Using each Library is a little different:
 
 The only tricky part about this is that you need to pass a serial object to the begin() function of the library by reference before doing anything else. The reason for doing this is that it allows different Arduinos that implement Serial differently to all use the same library. In practice it would look something like this:
 
-&nbsp;
 
-<table border="1" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="top" width="300">
-      <p>
-        #include <Alltrax.h><br /> Alltrax controller;<br /> &#8230;<br /> &#8230;<br /> void setup() {<br /> &nbsp;&nbsp;controller.begin(&Serial1);<br /> &#8230;<br /> &#8230;</td> </tr> </tbody> </table> 
-        
+    #include 
+    Alltrax controller;
+    …
+    …
+    void setup() {
+    controller.begin(&Serial1);
+    …
+    …
+
+
         <p>
           Here is a table showing which hardware serial should be used:<br /> &nbsp;
         </p>
