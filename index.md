@@ -2,7 +2,7 @@
 title: Who am I?
 author: Derek Gutheil
 layout: default
-permalink: 
+permalink:
 ---
 
 <p style="text-align: left;">
