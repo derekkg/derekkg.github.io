@@ -87,20 +87,21 @@ See the provided examples if there is any confusion.
 </p>
 
 The only real difference between the Software and Hardware implementations is the instantiation. In the software version, you need to create a SoftwareSerial object with your Rx and Tx pins and then pass that by reference to the AlltraxSoftwareSerial <strong>constructor.</strong> Note there is no begin() method for the SoftwareSerial version.
- 
-                                                  <p>
-                                                    It could look something like this:
-                                                  </p>
-                                                  
-                                                  <table border="1" cellspacing="0" cellpadding="0">
-                                                    <tr>
-                                                      <td valign="top" width="300">
-                                                        <p>
-                                                          #include <SoftwareSerial.h><br /> #include <AlltraxSoftwareSerial.h><br /> &#8230;<br /> &#8230;<br /> SoftwareSerial mySerial(10,11); // Rx, Tx<br /> AlltraxSoftwareSerial controller(&mySerial);<br /> &#8230;<br /> &#8230;</td> </tr> </tbody> </table> 
-                                                          
-                                                          <p>
-                                                            &nbsp;
-                                                          </p>
+
+It could look something like this:
+
+
+
+    #include <SoftwareSerial.h>
+    #include <AlltraxSoftwareSerial.h>
+    …
+    …
+    SoftwareSerial mySerial(10,11); // Rx, Tx
+    AlltraxSoftwareSerial controller(&mySerial);
+    …
+    …
+
+
                                                           
                                                           <h3>
                                                             Methods
