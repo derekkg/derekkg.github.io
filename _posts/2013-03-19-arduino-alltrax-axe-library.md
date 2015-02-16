@@ -77,46 +77,12 @@ The only tricky part about this is that you need to pass a serial object to the 
           Here is a table showing which hardware serial should be used:<br /> &nbsp;
         </p>
         
-        <table width="90%" border="1" cellpadding="5">
-          <tr>
-            <td align="left">
-              <strong></p> 
-              
-              <p>
-                Board</strong></td> 
-                
-                <td>
-                  <strong></p> 
-                  
-                  <p>
-                    Hardware Serial</strong></td> </tr> 
-                    
-                    <tr>
-                      <td align="left">
-                        <p>
-                          Uno, Ethernet, Bluetooth, Duemilanove,<br /> Nano, Pro, Mini, etc. ATmega168 or ATmega328</td> 
-                          
-                          <td>
-                            <p>
-                              Serial</td> </tr> 
-                              
-                              <tr>
-                                <td align="left">
-                                  <p>
-                                    Due, Mega2560</td> 
-                                    
-                                    <td>
-                                      <p>
-                                        Serial, Serial1, Serial2, Serial3</td> </tr> 
-                                        
-                                        <tr>
-                                          <td align="left">
-                                            <p>
-                                              Leonardo, Micro</td> 
-                                              
-                                              <td>
-                                                <p>
-                                                  Serial1</td> </tr> </tbody> </table> 
+| Board                                                                              | Hardware Serial                   |
+|------------------------------------------------------------------------------------|-----------------------------------|
+| Uno, Ethernet, Bluetooth, Duemilanove,Nano, Pro, Mini, etc. ATmega168 or ATmega328 | Serial                            |
+| Due, Mega2560                                                                      | Serial, Serial1, Serial2, Serial3 |
+| Leonardo, Micro                                                                    | Serial1                           |
+
                                                   
                                                   <p>
                                                     See the provided examples if there is any confusion.<br /> &nbsp;
