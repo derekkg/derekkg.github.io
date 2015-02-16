@@ -102,39 +102,20 @@ It could look something like this:
     …
 
 
-                                                          
-                                                          <h3>
-                                                            Methods
-                                                          </h3>
-                                                          
-                                                          <p>
-                                                            There will be a page with method descriptions up shortly, in the mean time, the header file should suffice
-                                                          </p>
-                                                          
-                                                          <p>
-                                                            &nbsp;
-                                                          </p>
-                                                          
-                                                          <h3>
-                                                            Project Page
-                                                          </h3>
-                                                          
-                                                          <p>
-                                                            There will be a google code / github page up shortly
-                                                          </p>
-                                                          
-                                                          <p>
-                                                            &nbsp;
-                                                          </p>
-                                                          
-                                                          <h3>
-                                                            Download
-                                                          </h3>
-                                                          
-                                                          <p>
-                                                            <strong>Hardware:</strong> <a title="Alltrax.zip" href="http://derekgutheil.com/wp-content/uploads/2013/05/Alltrax.zip">Alltrax.zip</a>
-                                                          </p>
-                                                          
-                                                          <p>
-                                                            <strong>Software:</strong> <a title="AlltraxSoftwareSerial.zip" href="http://derekgutheil.com/wp-content/uploads/2013/05/AlltraxSoftwareSerial.zip">AlltraxSoftwareSerial.zip</a>
-                                                          </p>
+###Methods
+
+There will be a page with method descriptions up shortly, in the mean time, the header file should suffice
+
+###Project Page
+
+There will be a google code / github page up shortly
+
+###Download
+
+<p>
+<strong>Hardware:</strong> <a title="Alltrax.zip" href="http://derekgutheil.com/wp-content/uploads/2013/05/Alltrax.zip">Alltrax.zip</a>
+</p>
+
+<p>
+<strong>Software:</strong> <a title="AlltraxSoftwareSerial.zip" href="http://derekgutheil.com/wp-content/uploads/2013/05/AlltraxSoftwareSerial.zip">AlltraxSoftwareSerial.zip</a>
+</p>
