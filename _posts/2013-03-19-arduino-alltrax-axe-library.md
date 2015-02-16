@@ -78,25 +78,16 @@ Here is a table showing which hardware serial should be used:
 |------------------------------------------------------------------------------------|-----------------------------------|
 | Uno, Ethernet, Bluetooth, Duemilanove,Nano, Pro, Mini, etc. ATmega168 or ATmega328 | Serial                            |
 | Due, Mega2560                                                                      | Serial, Serial1, Serial2, Serial3 |
-| Leonardo, Micro                                                                    | Serial1                           |
+| Leonardo, Micro                                                                    | Serial1                           |      
 
-                                                  
-                                                  <p>
-                                                    See the provided examples if there is any confusion.<br /> &nbsp;
-                                                  </p>
-                                                  
-                                                  <p>
-                                                    &nbsp;
-                                                  </p>
-                                                  
-                                                  <p style="text-align: center;">
-                                                    <strong>&#8212;&#8211; Software</strong>: &#8212;&#8211;
-                                                  </p>
-                                                  
-                                                  <p style="text-align: left;">
-                                                    The only real difference between the Software and Hardware implementations is the instantiation. In the software version, you need to create a SoftwareSerial object with your Rx and Tx pins and then pass that by reference to the AlltraxSoftwareSerial <strong>constructor.</strong> Note there is no begin() method for the SoftwareSerial version.
-                                                  </p>
-                                                  
+See the provided examples if there is any confusion.
+                                          
+<p style="text-align: center;">
+<strong>&#8212;&#8211; Software</strong>: &#8212;&#8211;
+</p>
+
+The only real difference between the Software and Hardware implementations is the instantiation. In the software version, you need to create a SoftwareSerial object with your Rx and Tx pins and then pass that by reference to the AlltraxSoftwareSerial <strong>constructor.</strong> Note there is no begin() method for the SoftwareSerial version.
+ 
                                                   <p>
                                                     It could look something like this:
                                                   </p>
