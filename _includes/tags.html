@@ -1,7 +1,10 @@
 <div class="tag-content">
+	<b>
 	Tags:
 	{% for tag in page.tags %}
 		<a href="{{ site.url }}/tag/{{ tag }}">{{ tag }}{% if forloop.index != forloop.length%}, {% endif %}</a>
 	{% endfor %}
+	</b>
+	<hr />
 	<!--{{ page.tags | join: ', ' }} <a href="{{ site.url }}/tag/android"> test </a> -->
 </div><!-- ./tag-content -->

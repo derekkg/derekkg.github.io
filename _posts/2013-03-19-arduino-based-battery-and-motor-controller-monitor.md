@@ -3,13 +3,12 @@ title: Arduino based battery and motor controller monitor
 author: Derek Gutheil
 layout: article
 permalink: arduino-based-battery-and-motor-controller-monitor/
-categories:
+tags:
   - Alltrax
   - Arduino
   - EV Team
   - Hardware
   - Software
-tags:
   - battery
   - controller
   - motor
