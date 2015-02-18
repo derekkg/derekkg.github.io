@@ -3,7 +3,7 @@ title: Arduino Alltrax AXE Library
 author: Derek Gutheil
 layout: article
 permalink: arduino-alltrax-axe-library/
-categories:
+tags:
   - Alltrax
   - Android
   - EV Team
