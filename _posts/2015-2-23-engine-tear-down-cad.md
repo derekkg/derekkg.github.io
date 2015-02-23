@@ -3,7 +3,7 @@ title: Engine Tear-down and CAD
 author: Derek Gutheil
 layout: article
 permalink: /engine-tear-down-cad/
-categories:
+tags:
   - SSR
   - Pit Bike
   - Engine
