@@ -45,7 +45,7 @@ For more information on Software Serial see here: <http://arduino.cc/en/Referenc
 
 Using each Library is a little different:
 
-###Hardware
+####Hardware
 
 The only tricky part about this is that you need to pass a serial object to the begin() function of the library by reference before doing anything else. The reason for doing this is that it allows different Arduinos that implement Serial differently to all use the same library. In practice it would look something like this:
 
@@ -68,7 +68,7 @@ Here is a table showing which hardware serial should be used:
 
 See the provided examples if there is any confusion.
                                           
-###Software
+####Software
 
 The only real difference between the Software and Hardware implementations is the instantiation. In the software version, you need to create a SoftwareSerial object with your Rx and Tx pins and then pass that by reference to the AlltraxSoftwareSerial **constructor**. Note there is no begin() method for the SoftwareSerial version.
 
@@ -83,15 +83,15 @@ It could look something like this:
     …
     …
 
-###Methods
+####Methods
 
 There will be a page with method descriptions up shortly, in the mean time, the header file should suffice.
 
-###Project Page
+####Project Page
 
 There will be a google code / github page up shortly
 
-###Download
+####Download
 
 **Hardware:** [Alltrax.zip](http://derekgutheil.com/wp-content/uploads/2013/05/Alltrax.zip)
 
