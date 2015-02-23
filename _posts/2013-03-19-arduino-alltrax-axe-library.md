@@ -17,8 +17,7 @@ toc: true
 ---
 An Arduino Library for interfacing an Arduino with an Alltrax AXE/DCX motor controller. Any information that the motor controller is monitoring can be viewed on the Arduino, and writeable parameters on the Alltrax can be written by the Arduino as well. It may work for other Alltrax series motor controllers, however only the AXE series has been tested. 
 
-Based on work by Jennifer Holt (<a href="http://jennwork.homelinux.net/drupal6/node/26" rel="nofollow">http://jennwork.homelinux.net/drupal6/node/26</a>)  
-and Alltrax (<a href="http://www.mail-archive.com/listserv@electricmotorcycles.net/msg01779.html" rel="nofollow">http://www.mail-archive.com/listserv@electricmotorcycles.net/msg01779.html</a>)
+Based on work by [Jennifer Holt](http://jennwork.homelinux.net/drupal6/node/26) and [Alltrax](http://www.mail-archive.com/listserv@electricmotorcycles.net/msg01779.html)
 
 &nbsp;
 
