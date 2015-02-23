@@ -12,6 +12,7 @@ toc: true
 Coming soon &#8211; project currently in progress
 
 *****
+
 ##Background
 
 This project was an attempt to create an interface to an e36 BMW's Ibus with a raspberry pi. The Ibus is a communications network used to allow many of BMW's controllers to communicate with each other. In the e36 generation of 3 series, this network was only used to allow the Radio head unit to interface with the CD changer that could be installed. The goal of this project was to emulate the CD changer's Ibus interface to make the head unit think that a CD changer was present, while adding new features such as bluetooth that were not available at the time the car was manufactured.
