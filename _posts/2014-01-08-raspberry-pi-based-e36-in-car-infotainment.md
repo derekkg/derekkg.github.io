@@ -20,10 +20,15 @@ This project was an attempt to create an interface to an e36 BMW's Ibus with a r
 ##Project hardware
 
 The project consisted of a few common devices:
+
 + Raspberry pi (link)
+
 + USB Ibus adapter (link)
+
 + RN-52 bluetooth adapter (link)
+
 + FreedomPop USB adapter (link)
+
 + Power supply
 
 ##Software
