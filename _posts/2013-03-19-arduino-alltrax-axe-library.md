@@ -21,7 +21,7 @@ An Arduino Library for interfacing an Arduino with an Alltrax AXE/DCX motor cont
 Based on work by [Jennifer Holt](http://jennwork.homelinux.net/drupal6/node/26) and [Alltrax](http://www.mail-archive.com/listserv@electricmotorcycles.net/msg01779.html)
 
 
-<p style="text-align: center;">**Please NOTE: an RS232 Adapter is necessary!**</p>
+<p style="text-align: center;"><strong>Please NOTE: an RS232 Adapter is necessary!</strong></p>
 
 
 ## Installation and Examples
@@ -30,8 +30,8 @@ Unzip the Alltrax.zip folder into the arduino/libraries/ folder. Then look at th
 
 ## The Circuit
 
-<p style="text-align: center;">
-**an RS232 Adapter is necessary**<br /> * Power and ground &#8211;> RS232 shield/adapter<br /> * Arduino Rx &#8211;> adapter Rx<br /> * Arduino Tx &#8211;> adapter Tx
+<p style="text-align: center;"><strong>
+an RS232 Adapter is necessary</strong><br /> * Power and ground &#8211;> RS232 shield/adapter<br /> * Arduino Rx &#8211;> adapter Rx<br /> * Arduino Tx &#8211;> adapter Tx
 </p>
 
 If you do not have a crossover or null modem cable, you may need to switch which pin goes to Rx and Tx. A crossover or null modem cable is simply one where the Tx and Rx lines are switch internally. See <http://upload.wikimedia.org/wikipedia/commons/5/57/D25_Null_Modem_Wiring.png> for details.
@@ -45,7 +45,7 @@ For more information on Software Serial see here: <http://arduino.cc/en/Referenc
 
 Using each Library is a little different:
 
-###Hardware</strong>
+###Hardware
 
 The only tricky part about this is that you need to pass a serial object to the begin() function of the library by reference before doing anything else. The reason for doing this is that it allows different Arduinos that implement Serial differently to all use the same library. In practice it would look something like this:
 
