@@ -57,9 +57,7 @@ There were a few main goals for this project:
  
  
 ##Project 
-The Raspberry Pi is the central controller for this project. It is connected to the IBUS via the USB adapter, and controls the RN-52 Bluetooth adapter via GPIO and Serial communications.  
-Capabilities: 
-This project has the ability to play music from Bluetooth over the CD input of the radio, read most button presses on the radio, and display a select set of characters on the display (See characters below).  
+The Raspberry Pi is the central controller for this project. It is connected to the IBUS via the USB adapter, and controls the RN-52 Bluetooth adapter via GPIO and Serial communications. It has the ability to play music from Bluetooth over the CD input of the radio, read most button presses on the radio, and display a select set of characters on the display (See characters below).  
  
  
 Pictures of display 
@@ -67,10 +65,8 @@ Pictures of display
  
  
 ##Mistakes and Future Improvements 
-There are many things I want to improve on this in the future. The hardware I choose for this began to make less sense over various revisions of the design. Originally I had intended to have it connected to the internet to allow for devices to remotely connect to it and lock/unlock the car, open windows, flash the headlights, etc. Unfortunately after some research I discovered that the IBUS implementation on the E36 3 series does not gateway messages from other busses, so only radio commands are valid. This severely limited the scope of the what was possible with this device. I had also originally intended to use a small Bluetooth dongle on the Raspberry Pi to enable streaming Bluetooth through the Pi. This would have kept the amount of hardware components low, and allowed for everything to be USB based. Unfortunately the built-in DAC on the Raspberry Pi is subpar, and Bluetooth streaming was less than ideal over the Pi with frequent cut-outs or glitches. This led to the use of the RN-52 as a complete Bluetooth solution. The ability to gather track meta-data and send command to it over UART made it a breeze to integrate with the Pi and kept all of the features I was looking for. 
- 
-Unfortunately, the radio in my car does not have the ability to display arbitrary characters over the IBUS interface, only CD track and Disk numbers, along with a few other special characters. (See below).  
- 
+There are many things I want to improve on this in the future. The hardware I choose for this began to make less sense over various revisions of the design. Originally I had intended to have it connected to the internet to allow for devices to remotely connect to it and lock/unlock the car, open windows, flash the headlights, etc. Unfortunately after some research I discovered that the IBUS implementation on the E36 3 series does not gateway messages from other busses, so only radio commands are valid. This severely limited the scope of the what was possible with this device. I had also originally intended to use a small Bluetooth dongle on the Raspberry Pi to enable streaming Bluetooth through the Pi. This would have kept the amount of hardware components low, and allowed for everything to be USB based. Unfortunately the built-in DAC on the Raspberry Pi is subpar, and Bluetooth streaming was less than ideal over the Pi with frequent cut-outs or glitches. This led to the use of the RN-52 as a Bluetooth solution. The ability to gather track meta-data and send command to it over UART made it a breeze to integrate with the Pi and kept all of the features I was looking for. 
+The particular radio in my car does not have the ability to display arbitrary characters over the IBUS interface, only CD track and Disk numbers, along with a few other special characters (See below). It appears that later radios in this generation allowed for arbitrary text data to be sent over the IBUS interface, and can be easily retrofitted.   
  
 The power supply ended up being more problematic than I had anticipated with a lot of noise being transmitted over the power lines. I had hoped that the USB charger would filter that but for the future it looks like I will have to design a filter or isolation circuit that can remove the noise from the power lines. 
  
@@ -79,6 +75,10 @@ It has become obvious now that the Raspberry Pi is overkill for this project, an
 Since the Raspberry Pi can read most of the button presses on the radio, adding other capabilities and features are only limited by the GPIO outputs available. One new feature that can be added is a garage door opener. By finding a Homelink module and connecting it to some of the Pi's GPIO, an unused button on the radio can be used to open a garage door.  
  
 HOMELINK PHOTO 
+ 
+##Special Characters 
+mapping: 
+Put character to display mapping here. 
  
  
  
