@@ -90,3 +90,5 @@ There will be a page with method descriptions up shortly, in the mean time, the 
 ####Project Page and Download
 
 Source code for this library is hosted [here at bitbucket](https://bitbucket.org/dgutheil/arduino-alltrax-library)
+
+and can be downloaded directly [here](https://bitbucket.org/dgutheil/arduino-alltrax-library/downloads)
