@@ -8,11 +8,6 @@ tags:
   - Android
   - EV Team
   - Software
-image:
-  teaser: bio-photo.jpg
-  feature: 400x250.gif
-  credit: Derek Gutheil #name of the person or site you want to credit
-  creditlink: www.derekgutheil.com #url to their site or licensing
 toc: true
 ---
 
