@@ -87,12 +87,6 @@ It could look something like this:
 
 There will be a page with method descriptions up shortly, in the mean time, the header file should suffice.
 
-####Project Page
+####Project Page and Download
 
-There will be a google code / github page up shortly
-
-####Download
-
-**Hardware:** [Alltrax.zip](http://derekgutheil.com/wp-content/uploads/2013/05/Alltrax.zip)
-
-**Software:** [AlltraxSoftwareSerial.zip](http://derekgutheil.com/wp-content/uploads/2013/05/AlltraxSoftwareSerial.zip)
+Source code for this library is hosted [here at bitbucket](https://bitbucket.org/dgutheil/arduino-alltrax-library)
