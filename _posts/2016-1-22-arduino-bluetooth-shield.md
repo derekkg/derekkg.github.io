@@ -23,12 +23,21 @@ In late 2015 I designed an Arduino Bluetooth A2DP reciever shield in Eagle. I ha
 See more photos of the project [here](https://drive.google.com/open?id=0B5N_fYOaC113bi1hTjdUb2dtbnM)
 
 ![A2DP Bluetooth - Derek Gutheil 2015](/images/shield/1.JPG)
+
 ![A2DP Bluetooth - Derek Gutheil 2015](/images/shield/2.JPG)
+
 ![A2DP Bluetooth - Derek Gutheil 2015](/images/shield/3.JPG)
+
 ![A2DP Bluetooth - Derek Gutheil 2015](/images/shield/4.PNG)
+
 ![A2DP Bluetooth - Derek Gutheil 2015](/images/shield/5.PNG)
+
 ![A2DP Bluetooth - Derek Gutheil 2015](/images/shield/6.JPG)
+
 ![A2DP Bluetooth - Derek Gutheil 2015](/images/shield/7.JPG)
+
 ![A2DP Bluetooth - Derek Gutheil 2015](/images/shield/8.JPG)
+
 ![A2DP Bluetooth - Derek Gutheil 2015](/images/shield/9.JPG)
+
 ![A2DP Bluetooth - Derek Gutheil 2015](/images/shield/10.JPG)
