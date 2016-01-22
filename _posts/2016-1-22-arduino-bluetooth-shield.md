@@ -20,17 +20,15 @@ toc: true
 ---
 In late 2015 I designed an Arduino Bluetooth A2DP reciever shield in Eagle. I had prototyed a similar design a year prior as a part of a [previous project]({% post_url 2014-01-08-raspberry-pi-based-e36-in-car-infotainment %}), and have finally gotten around to implementing all of the features I wanted. I just recently populated one of the first boards I recieved, and have begun testing. So far, audio playback and USB to Serial communications have proven successful! More details to come.
 
-See more photos of the project [here](https://drive.google.com/file/d/0B5N_fYOaC113QTM1N0RQbzExNEk/view?usp=sharing)
+See more photos of the project [here](https://drive.google.com/open?id=0B5N_fYOaC113bi1hTjdUb2dtbnM)
 
-![A2DP Bluetooth](https://docs.google.com/uc?export=download&id=1fZ8pJGZ_bcn1F2m0j-0Yo1F8PrQE9zBPpg)
-![A2DP Bluetooth](https://docs.google.com/uc?export=download&id=1qm5AnIuVbjuVBCguffz4LadWPr3QpykiAQ)
-![A2DP Bluetooth](https://docs.google.com/uc?export=download&id=1D8AukfoSjft8QRdzGvbTyX9yxMmZmFnMtg)
-![A2DP Bluetooth](https://docs.google.com/uc?export=download&id=1wVthzcUoinrMvsnveoQP3uQihnvMo8D-nQ)
-![A2DP Bluetooth](https://docs.google.com/uc?export=download&id=ImageID)
-![A2DP Bluetooth](https://docs.google.com/uc?export=download&id=ImageID)
-![A2DP Bluetooth](https://docs.google.com/uc?export=download&id=ImageID)
-![A2DP Bluetooth](https://docs.google.com/uc?export=download&id=ImageID)
-![A2DP Bluetooth](https://docs.google.com/uc?export=download&id=ImageID)
-![A2DP Bluetooth](https://docs.google.com/uc?export=download&id=ImageID)
-![A2DP Bluetooth](https://docs.google.com/uc?export=download&id=ImageID)
-![A2DP Bluetooth](https://docs.google.com/uc?export=download&id=ImageID)
+![A2DP Bluetooth - Derek Gutheil 2015](shield/1.JPG)
+![A2DP Bluetooth - Derek Gutheil 2015](shield/2.JPG)
+![A2DP Bluetooth - Derek Gutheil 2015](shield/3.JPG)
+![A2DP Bluetooth - Derek Gutheil 2015](shield/4.PNG)
+![A2DP Bluetooth - Derek Gutheil 2015](shield/5.PNG)
+![A2DP Bluetooth - Derek Gutheil 2015](shield/6.JPG)
+![A2DP Bluetooth - Derek Gutheil 2015](shield/7.JPG)
+![A2DP Bluetooth - Derek Gutheil 2015](shield/8.JPG)
+![A2DP Bluetooth - Derek Gutheil 2015](shield/9.JPG)
+![A2DP Bluetooth - Derek Gutheil 2015](shield/10.JPG)
